@@ -1,0 +1,41 @@
+_repo: A-Short-Compendium-of-the-Catechism-for-the-IndiansBishop-of-Saut-Sainte-Marie_40466
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Baraga, Frederic
+    aliases:
+    - Baraga, Friderik
+    - Baraga, Irenaeus Friedrich
+    - Baraga, Frederick
+    birthdate: 1797
+    deathdate: 1868
+    gutenberg_agent_id: '40644'
+    url: http://www.gutenberg.org/2009/agents/40644
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Baraga
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sifferath, Nicholas Louis
+    alias: Sifferath, N. L. (Nicholas Louis)
+    birthdate: 1828
+    deathdate: 1898
+    gutenberg_agent_id: '40643'
+    url: http://www.gutenberg.org/2009/agents/40643
+description: ''
+gutenberg_issued: '2012-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40466'
+language: oji
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Ontario -- Ottawa -- Catechisms'
+- !lcc 'PM'
+- !lcsh 'Ottawa language -- Texts'
+title: "A Short Compendium of the Catechism for the Indians\r\nWith the Approbation\
+  \ of the Rt. Rev. Frederic Baraga, Bishop of Saut Sainte Marie"
+url: http://www.gutenberg.org/ebooks/40466
